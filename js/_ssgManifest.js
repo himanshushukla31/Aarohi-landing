@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["/apps","/blog","/blog/[slug]","/dev/[slug]","/developers","/gallery/[imageId]","/maintenance","/nfts","/thank-you","/values"]),self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB();
